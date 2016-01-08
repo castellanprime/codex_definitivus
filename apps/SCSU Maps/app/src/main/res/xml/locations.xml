@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- C:\Users\Matt1\AndroidStudioProjects\MyApplication\app\src\main\res\xml -->
+
+<locations>
+    <location buildingFullName = "Engineering and Computing Center" building="ECC" roomNumber="108" latitude="45.55010" longitude="-94.15086" id="1" isBuild="0"/>
+    <location buildingFullName ="Education Building" building="EB" roomNumber="B112" latitude="45.55120" longitude="-94.15253" id= "2" isBuild="0"/>
+    <location buildingFullName ="Education Building" building="EB" roomNumber="B112" latitude="45.55120" longitude="-94.15253" id= "3" isBuild="0"/>
+
+    <location buildingFullName ="Education Building" building="EB" roomNumber="" latitude="45.551087" longitude="-94.152482" id= "4" isBuild="true"/>
+    <location buildingFullName ="James W. Miller Learning Resource Center" building="MC" roomNumber="" latitude="45.553174" longitude="-94.153236" id= "5" isBuild="true"/>
+    <location buildingFullName ="Atwood Memorial Center" building="AMC" roomNumber="" latitude="45.553189" longitude="-94.149522" id= "6" isBuild="true"/>
+    <location buildingFullName ="Engineering and Computing Center" building="ECC" roomNumber="" latitude="45.550237" longitude="-94.151110" id= "7" isBuild="true"/>
+    <location buildingFullName ="Halenbeck Hall" building="HaH" roomNumber="" latitude="45.548586" longitude="-94.152864" id= "8" isBuild="true"/>
+    <location buildingFullName ="Garvey Commons" building="GC" roomNumber="" latitude="45.554188" longitude="-94.149603" id= "9" isBuild="true"/>
+
+
+    <location buildingFullName = "Engineering and Computing Center" building="ECC" roomNumber="135" latitude="45.550297" longitude="-94.151212" id="10" isBuild="0"/>
+    <location buildingFullName ="Riverview" building="R" roomNumber="" latitude="45.551281" longitude="-94.148465" id= "11" isBuild="true"/>
+
+    <location buildingFullName ="Riverview" building="R" roomNumber="204" latitude="45.551281" longitude="-94.148465" id= "12" isBuild="0"/>
+
+
+
+</locations>
+
+
+
+
+
+
+

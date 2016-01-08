@@ -1,0 +1,65 @@
+Script started on December 8, 2015 08:11:03 PM CST
+> g++ -std=c++0x gossip.cpp -o gossip
+
+> ./gossip 1000 100000
+
+Gossip simulation started
+Starting sim for k = 1
+End sim for k = 1 
+Starting sim for k = 2
+End sim for k = 2
+Starting sim for k = 3
+End sim for k = 3
+Starting sim for k = 4
+End sim for k = 4
+Starting sim for k = 5
+End sim for k = 5
+Starting sim for k = 6
+End sim for k = 6
+Starting sim for k = 7
+End sim for k = 7
+Starting sim for k = 8
+End sim for k = 8
+k	Clean	Infected
+1	20494	79506
+2	 5992	94008
+3	 1891	98109
+4	  662	99338
+5	  267	99733
+6	   85	99915
+7	   28	99972
+8	   11	99989
+
+> ./gossip 1000 200000
+
+Gossip simulation started
+Starting sim for k = 1
+End sim for k = 1 
+Starting sim for k = 2
+End sim for k = 2
+Starting sim for k = 3
+End sim for k = 3
+Starting sim for k = 4
+End sim for k = 4
+Starting sim for k = 5
+End sim for k = 5
+Starting sim for k = 6
+End sim for k = 6
+Starting sim for k = 7
+End sim for k = 7
+Starting sim for k = 8
+End sim for k = 8
+k	Clean	Infected
+1	40782	159218
+2	11947	188053
+3	 4029	195971
+4	 1425	198575
+5	  462	199538
+6	  164 	199836
+7	   68	199932
+8	   30	199970
+> exit
+
+exit
+
+Script done on December 8, 2015 08:27:12 PM CST

@@ -1,0 +1,15 @@
+.\" Manpage for primeFunct_client
+.TH man for primeFunct_client  MON OCT 5, 2015
+.SH NAME
+	primeFunct_server [USERNAME] 
+It starts the server for the primeFunct program
+.SH SYNOPSIS
+	primeFunct_server [USERNAME]
+.SH DESCRIPTION
+ It is the client component in the RPC communciation paradigm and makes a call to the server to execute a function. The result of that function (a token) is updated and sent back until a specified count is reached.
+.SH OPTIONS
+	none
+.SH BUGS
+	No known bugs
+.SH AUTHOR
+	Okusanya Oluwadamilola

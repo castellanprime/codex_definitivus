@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-be6781ec2c5a3e7cf372cf5ef76d462f649d518f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-35eee5aab80ff5c74f79fb70a77562a1d9a90aae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-82e7b6737a214eddec81fa465381db69d988b9fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-7f8f10ed4d8f7573d5484d52a0d9e6d37569c02b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-708d3925a27caf250a24942f19612a9c67821130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-46cf31c531190daaada85bff4f827d4bf01685ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-1d2c9f882f7533543ead11ca2b37057545aaeb20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-4834863b8e39643e3c8be08f926d0a46a4ba7443.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-a4eb07cb72298063204b77515169d93524621ad6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-cfd0b7715c743ec14b85352a169815a24d35e9e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-c40f8c37edac6c31edac214236df37c68995f207.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-cb6f98a33c956df40a9812bbc5972479ed01e020.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-5d3e02b02149599538705886600eaee73239dca2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-328091c16b55f4bdfe275a13b715592f1ebbf1e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-fb63112edb61b214828a78d4b95825e5199c2997.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-df61cd7ea6e4287355ef25fcb8f928db3904ba0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-c4a771254107ac4c98cf075cfead2d5fea08a43e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4cfc81e8a87a7ac081b6601c4c9a538b2e922060.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-cf82077aef27d4e26f0d40f8cd752d925ea232bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-5bfcc3ce3b8cce0208ecfdd21cae11adfaadb908.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-37f151d87e2da5b9773ec359e410edd01c55c5fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-acb179f4a4dc780f1fd51908d36cfa258ec7c617.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Matt1\Downloads\MapTest\app\build\intermediates\pre-dexed\debug\classes-e9aeb68253ee56593fdd473ff9c8d52d450604fd.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<schedules>
+    <schedule id="ab1234ab" locationId="1" Day="M W F" Time="2:00 - 2:50 PM" eventName="CSCI 411"/>
+    <schedule id="ab1234ab" locationId="2" Day="T H" Time="2:00 - 3:15 PM" eventName="CSCI 495"/>
+    <schedule id="ab1234ab" locationId="10" Day="F" Time="12:00 - 12:50 PM" eventName="CSCI 334"/>
+    <schedule id="ab1234ab" locationId="10" Day="T H" Time="3:30 - 4:45 PM" eventName="CSCI 332"/>
+
+    <schedule id="ab1234ac" locationId="1" Day="M W F" Time="1:00 - 2:15 PM" eventName="MATH 222"/>
+    <schedule id="ab1234ac" locationId="10" Day="T H" Time="2:00 - 3:15 PM" eventName="MATH 373"/>
+    <schedule id="ab1234ac" locationId="12" Day="M W F" Time="12:00 - 12:50 PM" eventName="ETHS 201"/>
+    <schedule id="ab1234ac" locationId="1" Day="T H" Time="3:30 - 4:45 PM" eventName="CSCI 331"/>
+
+</schedules>

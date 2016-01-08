@@ -1,0 +1,23 @@
+.TH Man pages for Distributed mutual exclusion algorithm "Nov 25, 2015"
+.SH NAME:
+ 	dist \- run the distributed mutual exclusion algorithm
+.SH SYNOPSIS
+	dist [number] [hostname]
+.SH DESCRIPTION
+	The program is about implementing the distributed mutal exclusion algorithm. This alogrithm is designed to solve the Dining 		Philosopher’s problem by updating the shared variables related to the problem. In the problem, five philosophers are sitting on a 		circular table. In the center of the table is a bowl of food and there are five chopsticks. Other important facts about this 		problem are these:
+	(a) a philosopher cannot eat and think at the same time.
+	(b) a philosopher can only choose from the sticks closet to them
+	(c) a philosopher is allowed only one chopstick at a time.
+	(d) a philosopher cannot choose a chopstick from an eating neighbour 
+	(e) the eating and thinking stages of each philosopher alternate.
+.SH OPTIONS
+	[number] - Should be in the range of 0 - 4.
+	[hostname] - localhost. If the number is 0, hostname is not required. 
+.SH RETURN VALUES
+	None.
+.SH FILES
+	/export/
+.SH AUTHORS
+	Chris K., David O., Austin M., and Nick F.
+.SH ERRATA
+	None

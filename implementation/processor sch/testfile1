@@ -1,0 +1,12 @@
+loop: L.D       F4,2000(R0)
+      S.D       F8,4000(R0)
+      ADD.D     F2,F4,F6
+      SUB.D     F8,F8,F10
+      MUL.D     F8,F4,F4
+      DIV.D     F8,F2,F4
+      DADD      R1,R2,R3
+      DADDI     R2,R4,#1
+      DADDUI    R1,R2,#-8
+      DSUBI     R1,R2,#1
+      BNEZ      R1,loop
+      BEQZ      R2,loop

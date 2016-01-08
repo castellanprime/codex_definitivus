@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:id="@+id/random">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+            android:layout_height="512dp" android:id="@+id/map" tools:context=".MapsActivity"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_weight="0.42"
+            android:layout_gravity="center_horizontal|top" />
+
+        <Button
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:text="Campus View"
+            android:id="@+id/button2"
+            android:layout_gravity="left|top"
+            android:onClick="ResetOnClick" />
+
+        <Button
+            android:layout_width="183dp"
+            android:layout_height="60dp"
+            android:text="Locations"
+            android:id="@+id/button_popup"
+            android:layout_gravity="right|bottom"
+            android:clickable="true" />
+
+        <Button
+            android:layout_width="183dp"
+            android:layout_height="60dp"
+            android:text="Events"
+            android:id="@+id/Eventbutton"
+            android:layout_gravity="left|bottom"
+            android:clickable="true" />
+
+        <Button
+            android:layout_width="83dp"
+            android:layout_height="wrap_content"
+            android:text="Logout"
+            android:id="@+id/login"
+            android:layout_gravity="right|top"
+            android:onClick="loginOnClick"
+            android:nestedScrollingEnabled="true" />
+
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.02"></LinearLayout>
+
+
+</LinearLayout>

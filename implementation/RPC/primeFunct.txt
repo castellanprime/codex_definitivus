@@ -1,0 +1,29 @@
+Abbreviated script
+> make -f Makefile.primeFunct
+... Some files are generated here
+
+> primeFunct_server &
+
+[1] 13265
+
+> primeFunct_client localhost
+
+(It Starts from 3)
+Next Integer: 3
+Number of Hops: 1
+Number of Primes: 1
+Next Integer: 4
+Number of Hops: 2
+Number of Primes: 2
+Next Integer: 5
+Number of Hops: 3
+Number of Primes: 2
+...
+Next Integer: 270
+Number of Hops: 268
+Number of Primes: 57
+...
+Next Integer: 10000
+Number of Hops : 9998
+Number of Primes : 1229
+

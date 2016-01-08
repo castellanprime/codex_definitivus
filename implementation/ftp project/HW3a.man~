@@ -1,0 +1,19 @@
+.TH Man pages for FTP Client CSCI 512 Oct 24, 2015 
+.SH NAME:
+ 	Client - The user
+.SH SYNOPSIS
+	HW3a [hostname]
+.SH DESCRIPTION
+	.P The program is a FTP(File Transfer Protocol) client that  connects to the FTP server at csci2.stcloudstate.edu and prints out the contents of a file in a particular directory. 
+	.P The program first creates a TCP socket for stream comunications as FTP relies on TCP to handle its transport mechanisms. It creates a FTP socket structure by determing if the supplied hostname is correct. If so, it gets its IP address and add the FTP port 		21(which is used primarily for communication purposes and it is the default port for FTP) . It connects to the FTP server and 		receives a connection message. Commands are sent over this channel in this order(USER, PASS, SYST, TYPE and PASV). The PASV command 		is used to put the server in a passive mode. A message is sent back indicating the IP address to connect to and the port number to 		use. 
+	.P The program then creates another channel in order to receive data from the server using the ip address and port number sent 		eariler. The command RETR gets the data from the server which is then displayed by the client. Client then closes the two 		channels.C's.
+.SH OPTIONS
+	hostname Use csci2.stcloudstate.edu
+.SH RETURN VALUES
+	None.
+.SH FILES
+	/export/home/cs412/cs412110/Documents/HW3/HW3.cpp
+.SH AUTHORS
+	Okusanya Oluwadamilola
+.SH ERRATA
+	See documentation - Problem 3 documentation.

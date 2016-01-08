@@ -1,0 +1,21 @@
+.TH Man pages for Gossip Protocol(Push Mode) "Dec 9, 2015"
+.SH NAME:
+ 	gossip \- run the distributed mutual exclusion algorithm
+.SH SYNOPSIS
+	gossip [no of rounds] [no of nodes to be tested]
+.SH DESCRIPTION
+	The program is about implementing the gossip protocol, using infections as the primary communication mechanism.
+.SH OPTIONS
+	[no of rounds] - Start with 1000 
+	[no of nodes to be tested] - Start with 100000 
+.SH RETURN VALUES
+	A table is generated in this format
+	K		Clean 		Infected
+	1		30000		70000
+	...		...			....
+.SH FILES
+	/export/home/cs412110/Documents/HW4/
+.SH AUTHORS
+	OLUWADAMILOLA OKUSANYA
+.SH ERRATA
+	None
